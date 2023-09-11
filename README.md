@@ -1,2 +1,4 @@
 # PrepCourseHenry-
-repositorio de prueba modulo 2 henry
+
+esto es una pruebaaaaaaaaaaaaaa de como crar un repositorio de git hub y clonarlo a mi computadora
+
